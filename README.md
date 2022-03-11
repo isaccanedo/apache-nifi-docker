@@ -30,16 +30,6 @@ docker-compose -version
 ## Docker compose
 É um arquivo yml que vem com as configurações necessárias para subirmos esses dados em Docker para iniciarmos os trabalhos. Maiores detalhes sobre o conteudo dele, basta ver o vídeo abaixo.
 
-## Baixando esse repositório via Git:
-Para baixar o repositorio com o compose digite o comando abaixo:
-```
-git clone https://github.com/AnselmoBorges/udemy02.git
-```
-Entre dentro do diretório baixado:
-```
-cd udemy02/compose
-```
-
 ## Realize o start do deamon do Docker:
 Por padrão o Docker não vem iniciado, sendo assim rodamos os comandos abaixo para iniciar o Docker:
 ```
