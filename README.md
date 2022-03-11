@@ -1,5 +1,3 @@
-# apache-nifi-docker
-
 # Instalação Apache Nifi no Docker
 
 Nesse material, vamos realizar a instalação do Apache Nifi usando o Docker e vocês vão perceber, pra quem nunca usou é absurdamente mais simples.
